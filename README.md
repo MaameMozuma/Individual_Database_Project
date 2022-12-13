@@ -6,5 +6,5 @@
 - This project explored entities like customers, artistes, employees, playlists, advertisements, to mention a few. 
 
 
-
+To run the project, download the .sql file and run it 
 To watch a video on the presentation, use this link: `https://youtu.be/ARhGmytc-Ho`
