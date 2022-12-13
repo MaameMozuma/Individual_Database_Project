@@ -6,5 +6,8 @@
 - This project explored entities like customers, artistes, employees, playlists, advertisements, to mention a few. 
 
 
-To run the project, download the .sql file and run it 
+To run the project, download the .sql file `Task 2.2-2.5_51722024_DB_Project` and run it 
+To view the case study processes taken to develop the sql code, kindly review the pdf document
 To watch a video on the presentation, use this link: `https://youtu.be/ARhGmytc-Ho`
+
+DISCLAIMER: Musicfy is a fictional company created to work on the database project
