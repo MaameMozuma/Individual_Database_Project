@@ -1,7 +1,10 @@
+-- creating a database
 DROP DATABASE IF EXISTS Digital_Music_Store_51722024;
 CREATE DATABASE Digital_Music_Store_51722024;
 USE Digital_Music_Store_51722024;
 
+
+-- creating tables
 CREATE TABLE Country(
 	countryID INT PRIMARY KEY AUTO_INCREMENT,
     country_name VARCHAR (30),
@@ -584,6 +587,8 @@ INSERT INTO Advertisement_Customer VALUES (123, 519);
 INSERT INTO Advertisement_Customer VALUES (132, 520);
 INSERT INTO Advertisement_Customer VALUES (129, 520);
 INSERT INTO Advertisement_Customer VALUES (124, 524);
+
+-- writing queries
 
 -- this query selects songs based on genre, country and artiste name using union
 SELECT song.song_title, Song.song_length, Song.year_released
